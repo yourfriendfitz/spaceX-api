@@ -10,3 +10,5 @@ app.use(
     graphiql: true
   })
 );
+
+app.listen(4000);
