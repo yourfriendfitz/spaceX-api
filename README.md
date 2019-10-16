@@ -1,2 +1,2 @@
 # spaceX-api
-An app to acces the spaceX api. Made with GraphQL, React, and Apollo.
+Utilizing spaceX api this app demonstrates the features of graphQL using react and apollo
